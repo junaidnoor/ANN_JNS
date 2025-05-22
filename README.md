@@ -69,3 +69,7 @@ project/
 ├── Scaler.pkl
 ├── log/fit/<timestamp>/ (TensorBoard logs)
 └── ProANN.ipynb
+
+🧪 How to Run Locally
+0.1 Application Url
+https://annjns-afap7supqqrsjoo2fswute.streamlit.app/
